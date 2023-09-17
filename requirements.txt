@@ -1,0 +1,12 @@
+streamlit-on-Hover-tabs==1.0.1
+streamlit==1.26.0
+langchain==0.0.292
+bs4==0.0.1
+requests
+langchain-experimental
+presidio-analyzer
+presidio-anonymizer
+spacy
+Faker
+python-dotenv
+openai
